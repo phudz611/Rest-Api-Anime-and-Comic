@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.sankavollerei.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%F0%9F%9A%80+Welcome+to+SankaApi;%E2%9C%A8+Your+Gateway+to+Anime+%26+Comic+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%F0%9F%9A%80+Welcome+to+SankaApi;%E2%9C%A8+Restfull+Anime+%26+Comic+Api" alt="Typing SVG" />
   </a>
 </p>
 
