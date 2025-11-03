@@ -364,8 +364,42 @@ Build watchlist and reading list applications
 
 <p align="center">
   <strong>Download your favorite anime instantly!</strong><br/>
-  <strong>Download anime favoritemu secara instan!</strong>
 </p>
+
+---
+---
+
+## 🎬 Sankanime - Streaming Platform
+
+<div align="center">
+
+### 🌟 Streaming Anime Terlengkap & Tanpa Iklan
+
+<p align="center">
+  <a href="https://sankanime.com/">
+    <img src="https://img.shields.io/badge/🎬_WATCH_NOW-SANKANIME.COM-FF6B6B?style=for-the-badge&logo=play&logoColor=white" />
+  </a>
+</p>
+
+**🔗 Platform Streaming:** [sankanime.com](https://sankanime.com/)
+
+</div>
+
+**Keunggulan Platform:**
+- ✅ **Koleksi Terlengkap** - Ribuan anime dari berbagai genre
+- ✅ **Tanpa Iklan** - Pengalaman menonton tanpa gangguan
+- ✅ **Kualitas HD** - Streaming dengan kualitas terbaik
+- ✅ **Update Cepat** - Episode terbaru langsung tersedia
+- ✅ **Subtitle Indonesia** - Subtitle lengkap dan akurat
+- ✅ **Multi Device** - Akses dari smartphone, tablet, atau PC
+
+**Perfect for:**
+- 🎯 Menonton anime favorit tanpa gangguan iklan
+- 🎯 Streaming anime ongoing terbaru
+- 🎯 Menikmati anime klasik dan populer
+- 🎯 Binge-watching dengan kualitas terbaik
+
+---
 
 ---
 
