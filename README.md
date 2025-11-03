@@ -361,43 +361,44 @@ Coming soon / 近日公開
 
 ## 📱 Connect With Us
 
-### 🔔 Stay Updated with Latest API News & Features!
-
-<p align="center">
+<div align="center">
+  <h3>🔔 Stay Updated with Latest API News & Features!</h3>
+  
   <a href="https://whatsapp.com/channel/0029VbBv5edGk1Fo8WbsAK1V">
-    <img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
+  
+  <br><br>
+  
   <a href="https://www.facebook.com/sankanime34">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
+  
+  <br><br>
+  
   <a href="https://www.tiktok.com/@sandikaaa78">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=TikTok&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
+  
+  <br><br>
+  
   <a href="https://discord.com/users/sandikaaa.">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
+  
+  <br><br>
+  
   <a href="https://www.instagram.com/sandikaaa_78">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
+  
+  <br><br>
+  
   <a href="https://t.me/OnlySankaaa">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
+  
+</div>
 
 ---
 
