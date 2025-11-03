@@ -114,7 +114,9 @@ GET https://www.sankavollerei.com/comic
 - **Donghua** - Chinese animation content
 - **Samehadaku** - Indonesian anime platform
 - **Animasu** - Indonesian anime platfrom
+- **Zoronime** - Indonesian anime platfrom
 - **Anoboy** - Anime streaming service
+- **Kusonime** - Anime Downloader batch
 - **Anime Indo** - Indonesian anime streaming
 - **Nekopoi** - Adult anime content
 
