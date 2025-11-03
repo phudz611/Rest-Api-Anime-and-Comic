@@ -32,7 +32,7 @@
 
 ## 🎯 Overview
 
-**SankaVollerei** is a powerful, free REST API service that provides comprehensive access to anime and comic data. With coverage spanning from 1917 to the present day, our API offers developers a robust solution for building anime and comic-related applications.
+**Sanka Api** is a powerful, free REST API service that provides comprehensive access to anime and comic data. With coverage spanning from 1917 to the present day, our API offers developers a robust solution for building anime and comic-related applications.
 
 ### ✨ Key Highlights
 
@@ -113,8 +113,9 @@ GET https://www.sankavollerei.com/comic
 - **Otakudesu** - Popular anime streaming source
 - **Donghua** - Chinese animation content
 - **Samehadaku** - Indonesian anime platform
+- **Animasu** - Indonesian anime platfrom
 - **Anoboy** - Anime streaming service
-- **Anime Indo** - Indonesian anime database
+- **Anime Indo** - Indonesian anime streaming
 - **Nekopoi** - Adult anime content
 
 ### 📚 Comic Sources
@@ -126,7 +127,7 @@ GET https://www.sankavollerei.com/comic
 - **Mangakita** - Manga reading platform
 - **SoulScans** - Scanlation group
 - **Meganei** - Manga platform
-- **Mangasusuku** - Manga enjoyment site
+- **Mangasusuku** - Adult manga content
 
 ---
 
