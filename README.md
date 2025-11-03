@@ -15,12 +15,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/SankaVollereii/SankaVollerei?style=social" />
-  <img src="https://img.shields.io/github/forks/SankaVollereii/SankaVollerei?style=social" />
-  <img src="https://img.shields.io/github/watchers/SankaVollereii/SankaVollerei?style=social" />
-</p>
-
 ---
 
 <h2 align="center">
