@@ -120,32 +120,40 @@ Visit the page https://www.sankavollerei.com/download/anime
 
 ## 📡 API Sources
 
-### 🎬 Anime Sources
-- **Otakudesu** - Popular anime streaming source
-- **Donghua** - Chinese animation content
-- **Samehadaku** - Indonesian anime platform
-- **Animasu** - Indonesian anime platfrom
-- **Zoronime** - Indonesian anime platfrom
-- **Anoboy** - Anime streaming service
-- **Kusonime** - Anime Downloader batch
-- **Anime Indo** - Indonesian anime streaming
-- **Oploverz** - Anime streaming service
-- **Kuramanime** - Anime Streaming & Download
-- **Nekopoi** - Adult anime content
+# 🎬 Anime & Manga Sources
 
-### 📚 Comic Sources
-- **Komiku** - Indonesian manga platform
-- **BacaKomik** - Comic reading platform
-- **Komikstation** - Manga station
-- **Maid Comic** - Manga service
-- **Komikindo** - Indonesian comic site
-- **Mangakita** - Manga reading platform
-- **SoulScans** - Manga indonesian platform
-- **Meganei** - Manga platform
-- **Komikcast** - Manga platform
-- **Kiryuu** - Indonesian Manga platfrom
-- **Novelhubapp** - Novel platform
-- **Mangasusuku** - Adult manga content
+## 🎬 Anime Sources
+
+| Platform | Description | URL |
+|----------|-------------|-----|
+| **Otakudesu** | Popular anime streaming source | [otakudesu.best](https://otakudesu.best) |
+| **Donghua** | Chinese animation content | [anichin.cafe](https://anichin.cafe) |
+| **Samehadaku** | Indonesian anime platform | [v1.samehadaku.how](https://v1.samehadaku.how) |
+| **Animasu** | Indonesian anime platform | [v1.animasu.top](https://v1.animasu.top) |
+| **Zoronime** | Indonesian anime platform | [zoronime.com](https://zoronime.com) |
+| **Anoboy** | Anime streaming service | [anoboy.be](https://anoboy.be) |
+| **Kusonime** | Anime Downloader batch | [kusonime.com](https://kusonime.com) |
+| **Anime Indo** | Indonesian anime streaming | [animeindo.lol](https://anime-indo.lol) |
+| **Oploverz** | Anime streaming service | [oploverz.mom](https://oploverz.mom) |
+| **Kuramanime** | Anime Streaming & Download | [v8.kuramanime.tel](https://v8.kuramanime.tel) |
+| **Nekopoi** | Adult anime content | [nekopoi.care](https://nekopoi.care) |
+
+## 📚 Comic/Manga Sources
+
+| Platform | Description | URL |
+|----------|-------------|-----|
+| **Komiku** | Indonesian manga platform | [komiku.org](https://komiku.org) |
+| **BacaKomik** | Comic reading platform | [bacakomik.one](https://bacakomik.one) |
+| **Komikstation** | Manga station | [komikstation.org](https://komikstation.org) |
+| **Maid Comic** | Manga service | [maid.my.id](https://maid.my.id) |
+| **Komikindo** | Indonesian comic site | [komikindo.ch](https://komikindo.ch) |
+| **Mangakita** | Manga reading platform | [mangakita.id](https://mangakita.id) |
+| **SoulScans** | Manga Indonesian platform | [soulscans.my.id](https://soulscans.my.id) |
+| **Meganei** | Manga platform | [meganei.net](https://meganei.net) |
+| **Komikcast** | Manga platform | [komikcast03.com](https://komikcast03.com) |
+| **Kiryuu** | Indonesian Manga platform | [kiryuu03.com](https://kiryuu03.com) |
+| **Novelhubapp** | Novel platform | [novelhubapp.com](https://novelhubapp.com) |
+| **Mangasusuku** | Adult manga content | [mangasusuku.com](https://mangasusuku.com) |
 
 ---
 
