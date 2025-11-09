@@ -129,8 +129,9 @@ GET https://www.sankavollerei.com/comic
 - **Maid Comic** - Manga service
 - **Komikindo** - Indonesian comic site
 - **Mangakita** - Manga reading platform
-- **SoulScans** - Scanlation group
+- **SoulScans** - Manga indonesian platform
 - **Meganei** - Manga platform
+- **Komikcast** - Manga platform
 - **Kiryuu** - Indonesian Manga platfrom
 - **Novelhubapp** - Novel platform
 - **Mangasusuku** - Adult manga content
