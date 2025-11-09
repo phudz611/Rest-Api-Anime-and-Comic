@@ -133,7 +133,7 @@ Visit the page https://www.sankavollerei.com/download/anime
 | **Zoronime** | Indonesian anime platform | [zoronime.com](https://zoronime.com) |
 | **Anoboy** | Anime streaming service | [anoboy.be](https://anoboy.be) |
 | **Kusonime** | Anime Downloader batch | [kusonime.com](https://kusonime.com) |
-| **Anime Indo** | Indonesian anime streaming | [animeindo.lol](https://anime-indo.lol) |
+| **Anime Indo** | Indonesian anime streaming | [animeindo.lol](https://animeindo.lol) |
 | **Oploverz** | Anime streaming service | [oploverz.mom](https://oploverz.mom) |
 | **Kuramanime** | Anime Streaming & Download | [v8.kuramanime.tel](https://v8.kuramanime.tel) |
 | **Nekopoi** | Adult anime content | [nekopoi.care](https://nekopoi.care) |
